@@ -21,7 +21,7 @@ sudo docker exec --user root -it 739eeacbfe93 bash
 
 ```
 POST /service/extdirect HTTP/1.1
-Host: 34.92.64.191:8081
+Host: **.**.**.191:8081
 Content-Length: 350
 X-Requested-With: XMLHttpRequest
 X-Nexus-UI: true
